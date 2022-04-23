@@ -1,0 +1,12 @@
+{
+  "name": "nubank-challanger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "calculate": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
