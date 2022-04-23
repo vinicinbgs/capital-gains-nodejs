@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "calculate": "node index.js"
+    "calculate": "node index.js",
+    "tests": "node tests/_.test.js"
   },
   "keywords": [],
   "author": "",
